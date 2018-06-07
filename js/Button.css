@@ -1,0 +1,22 @@
+button {
+  background: transparent;
+  border: 1px solid #5998ff;
+  color: white;
+  padding: 18px 52px;
+  text-align: center;
+  display: block;
+  font-size: 16px;
+  margin-right: auto;
+  margin-left: auto;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: roboto;
+  text-decoration: none;
+}
+button:hover {
+  background-color: #5998ff;
+  color: white;
+}

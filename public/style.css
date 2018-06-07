@@ -1,0 +1,14 @@
+body {
+  background-image: url('../public/zak.jpg');
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center left;
+}
+
+a:hover,
+a:visited,
+a:link,
+a:active {
+  text-decoration: none;
+  color: white;
+}
